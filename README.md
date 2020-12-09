@@ -1,4 +1,4 @@
-# helm-docker
+# CLI Yandex.Cloud Helm Docker
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/mtizima/ycli-helm.svg?style=flat-square)](https://hub.docker.com/r/mtizima/ycli-helm/)
 
