@@ -22,6 +22,13 @@ And `helm` plugins:
 Docker images are automatically build on [Docker
 Hub](https://hub.docker.com/r/mtizima/ycli-helm/):
 
+## GitHub Packages
+
+You can use github packages:
+
+- Pull image from the command line: `docker pull docker.pkg.github.com/mtizima/yc-helm/ycli-helm:<version>`
+- Use as base image in DockerFile: `FROM docker.pkg.github.com/mtizima/yc-helm/ycli-helm:<version>`
+
 ### Building
 
 For local build:
