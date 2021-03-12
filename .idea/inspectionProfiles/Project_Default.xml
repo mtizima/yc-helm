@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="boto3" />
+            <item index="2" class="java.lang.String" itemvalue="nodeenv" />
+            <item index="3" class="java.lang.String" itemvalue="botocore" />
+            <item index="4" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="5" class="java.lang.String" itemvalue="django-phonenumber-field" />
+            <item index="6" class="java.lang.String" itemvalue="django-storages" />
+            <item index="7" class="java.lang.String" itemvalue="django-phone-login" />
+            <item index="8" class="java.lang.String" itemvalue="beautifulsoup4" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
