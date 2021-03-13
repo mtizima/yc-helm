@@ -9,7 +9,7 @@ WORKDIR /
 # Enable SSL
 # Helm plugins require git
 # helm-diff and yandex-cloud requires bash, curl
-RUN apk --update add ca-certificates wget python curl tar jq git bash
+RUN apk --update add ca-certificates wget python3 curl tar jq git bash
 
 ENV HOME /
 ENV PATH /yandex-cloud/bin:$PATH
